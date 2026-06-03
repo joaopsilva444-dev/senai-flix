@@ -3,8 +3,8 @@ import styled from 'styled-components'
 import Input from '../Input'
 import { filmes } from './dadosPesquisa'
 const PesquisaContainer = styled.section`
-background-image: linear-gradient(90deg, #ae00ff, #4c046d);
-color: #610975;
+background-image: linear-gradient(90deg, #c037ff, #4c046d);
+color: #000000;
 text-align: center;
 padding: 80px 0;
 `

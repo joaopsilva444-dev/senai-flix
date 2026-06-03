@@ -15,7 +15,7 @@ padding: 50px 0;
 text-align: center;
 `
 const Titulo = styled.h2`
-color: #610975;
+color: #000000;
 font-size: 32px;
 `
 const Filmes = styled.div`
@@ -25,7 +25,7 @@ gap: 30px;
 flex-wrap: wrap;
 `
 const FilmeCard = styled.div`
-background-color: #3f0182;
+background-color: #610975;
 width: 180px;
 padding: 20px;
 
